@@ -6,4 +6,17 @@
 4. execute the executible ./graphics_asgn1
 
 It will looks like this
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](image.png)
