@@ -1,0 +1,3 @@
+/home/agarwal98/graphics/Assignment1/a1_20171122/build/CMakeFiles/rebuild_cache.dir
+/home/agarwal98/graphics/Assignment1/a1_20171122/build/CMakeFiles/graphics_asgn1.dir
+/home/agarwal98/graphics/Assignment1/a1_20171122/build/CMakeFiles/edit_cache.dir
